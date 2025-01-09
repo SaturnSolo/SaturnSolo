@@ -4,5 +4,5 @@
 
 ### About me 
 - Head Developer of a Discord bot named Iapetus.
-- Languages: Java, HTML, CSS
+- Languages: I know Java | I am currently learning HTML, CSS
 - Tools: SQLite, Git, IntelliJ IDEA, Visual Studio Code
